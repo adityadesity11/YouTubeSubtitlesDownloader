@@ -1,0 +1,7 @@
+77a48dc1cdmshff0aa7b16b42021p1ab727jsn4cc19afa0c2b
+
+youtube-media-downloader.p.rapidapi.com
+
+https://youtube-media-downloader.p.rapidapi.com/v2/video/details
+
+https://youtube-media-downloader.p.rapidapi.com/v2/video/subtitles

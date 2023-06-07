@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form action='{{url_for('home')}}' class='main-form' method="post">
+        
+    <div class='text-center'>
+        <label> Paste Youtube Video URL</label>
+        <input type="text" id="yturl" name='yturl' style="margin-top:10px;margin-bottom:10px;width: 700px;">
+        <button type='submit' class='btn btn-outline-success' style="margin-top:10px;margin-bottom:10px;width: 700px;"> Download Subtitles
+        </button>
+    </div>
+{% endblock content %}
+
